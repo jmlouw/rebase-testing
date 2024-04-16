@@ -5,3 +5,8 @@ another change on b1 that needs to reflected in b2 and b3
 commit 1 b2
 an update on b2. We want this change to reflect in b3
 an update on b2 to make things interesting! A small addition
+commit 1 b3
+
+
+
+commit 2 b3
