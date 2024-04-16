@@ -1,2 +1,3 @@
 commit 1 b1
 commit 2 b1
+commit test if rebasing works. we want to see this line in b2 and b3
